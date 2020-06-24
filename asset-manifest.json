@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/weatherseason/static/css/main.6aad961e.chunk.css",
+    "main.js": "/weatherseason/static/js/main.04538a05.chunk.js",
+    "main.js.map": "/weatherseason/static/js/main.04538a05.chunk.js.map",
+    "runtime-main.js": "/weatherseason/static/js/runtime-main.f4a8a8e4.js",
+    "runtime-main.js.map": "/weatherseason/static/js/runtime-main.f4a8a8e4.js.map",
+    "static/js/2.8b77c9df.chunk.js": "/weatherseason/static/js/2.8b77c9df.chunk.js",
+    "static/js/2.8b77c9df.chunk.js.map": "/weatherseason/static/js/2.8b77c9df.chunk.js.map",
+    "index.html": "/weatherseason/index.html",
+    "precache-manifest.ce053e9ea1345abd17e9a7348df9a8bf.js": "/weatherseason/precache-manifest.ce053e9ea1345abd17e9a7348df9a8bf.js",
+    "service-worker.js": "/weatherseason/service-worker.js",
+    "static/css/main.6aad961e.chunk.css.map": "/weatherseason/static/css/main.6aad961e.chunk.css.map",
+    "static/js/2.8b77c9df.chunk.js.LICENSE.txt": "/weatherseason/static/js/2.8b77c9df.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f4a8a8e4.js",
+    "static/js/2.8b77c9df.chunk.js",
+    "static/css/main.6aad961e.chunk.css",
+    "static/js/main.04538a05.chunk.js"
+  ]
+}
